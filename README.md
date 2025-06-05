@@ -79,8 +79,8 @@ pip install -r requirements.txt
 
 Create a .env file:
 
-OPENAI_API_KEY=your-key-here<br>
-MODEL=gpt-4o
+-OPENAI_API_KEY=your-key-here
+-MODEL=gpt-4o
 
 ```sh
 python main.py
