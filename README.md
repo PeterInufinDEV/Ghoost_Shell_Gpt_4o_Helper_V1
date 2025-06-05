@@ -88,7 +88,7 @@ python main.py
 ```
 ---
 
-[![Download Rebirth Core Ghoost Shell Gpt-4o Helper v1.0.0](https://img.shields.io/badge/📥%20Download%20Pen%20Rebirth%20Ghoost%20Shell%20Gpt-4o%20-v1.0.0-blue?style=for-the-badge)](https://github.com/RebirthCore/Ghoost_Shell_Gpt_4o_Helper_V1/releases/tag/v1.0.0)
+[![Download Ghoost Shell GPT-4o Helper v1.0.0](https://img.shields.io/badge/📥%20Download%20Ghoost%20Shell%20GPT--4o%20-v1.0.0-blue?style=for-the-badge)](https://github.com/RebirthCore/Ghoost_Shell_Gpt_4o_Helper_V1/releases/tag/v1.0.0)
 
 ---
 
