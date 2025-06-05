@@ -3,3 +3,4 @@ click
 rich
 python-dotenv
 textual
+colorama
