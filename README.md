@@ -2,8 +2,12 @@
 
 🚀 **Ghoost Shell** is a terminal-first, AI-powered assistant built for developers, hackers, and productivity lovers who prefer the power of the shell.  
 
-<img src="assets/screenshots/ghostshell-01.PNG" alt="Screenshot 1" width="600"/>
-<img src="assets/screenshots/ghostshell-02.PNG" alt="Screenshot 2" width="600"/>
+<table>
+  <tr>
+    <td><img src="assets/screenshots/ghostshell-01.PNG" alt="Screenshot 1" width="100%"/></td>
+    <td><img src="assets/screenshots/ghostshell-02.PNG" alt="Screenshot 2" width="100%"/></td>
+  </tr>
+</table>
 
 Get blazing-fast answers to:
 - 🧠 Text generation
