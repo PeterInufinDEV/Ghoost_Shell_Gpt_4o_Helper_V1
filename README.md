@@ -42,24 +42,25 @@ This is the **RebirthCore of GPT-powered tools** – in raw terminal mode.
 ## 📂 Project Structure
 
 ```
-Ghoost_Shell_Gpt_4o_Helper_V1/
-│
-├── main.py # Entry point with ASCII UI & CLI loop
-├── cli.py # Optional advanced CLI logic (WIP)
-├── config.py # API key & model config
-├── .env # Store your OpenAI API key securely
-├── requirements.txt # Dependencies
-│
-├── handlers/ # Task-specific logic
-│ ├── text_gen.py
-│ ├── explain_code.py
-│ ├── explain_shell.py
-│ └── fix_regex.py
-│
-├── utils/
-│ └── openai_client.py # GPT interface wrapper
-│
-└── README.md # This file
+gpt-helper-cli/
+├── .gitignore
+├── cli.py
+├── config.py
+├── main.py
+├── main_old.py
+├── README.md
+├── requirements.txt
+├── assets/
+│   └── screenshots/
+│       ├── ghostshell-01.PNG
+│       └── ghostshell-02.PNG
+├── handlers/
+│   ├── explain_code.py
+│   ├── explain_shell.py
+│   ├── fix_regex.py
+│   └── text_gen.py
+└── utils/
+    └── openai_client.py
 ```
 ---
 
