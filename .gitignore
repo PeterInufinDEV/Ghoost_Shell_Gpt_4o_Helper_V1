@@ -1,1 +1,2 @@
 -e "__pycache__/\n.env\n*.pyc\n.idea/\n.vscode/" 
+.env 
