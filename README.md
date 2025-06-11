@@ -15,7 +15,7 @@ Get blazing-fast answers to:
 - ⚙️ Shell command explanations
 - 🧩 Regex debugging
 
-This is the **RebirthCore of GPT-powered tools** – in raw terminal mode.
+This is the **BusyBrainPM of GPT-powered tools** – in raw terminal mode.
 
 ---
 
@@ -72,7 +72,7 @@ gpt-helper-cli/
 
 1. **Clone the repo**
 ```sh
-git clone https://github.com/RebirthCore/Ghoost_Shell_Gpt_4o_Helper_V1.git
+git clone https://github.com/BusyBrainPM/Ghoost_Shell_Gpt_4o_Helper_V1.git
 cd Ghoost_Shell_Gpt_4o_Helper
 pip install -r requirements.txt
 ```
@@ -88,7 +88,7 @@ python main.py
 ```
 ---
 
-[![Download Ghoost Shell GPT-4o Helper v1.0.0](https://img.shields.io/badge/📥%20Download%20Ghoost%20Shell%20GPT--4o%20-v1.0.0-blue?style=for-the-badge)](https://github.com/RebirthCore/Ghoost_Shell_Gpt_4o_Helper_V1/releases/tag/v1.0.0)
+[![Download Ghoost Shell GPT-4o Helper v1.0.0](https://img.shields.io/badge/📥%20Download%20Ghoost%20Shell%20GPT--4o%20-v1.0.0-blue?style=for-the-badge)](https://github.com/BusyBrainPM/Ghoost_Shell_Gpt_4o_Helper_V1/releases/tag/v1.0.0)
 
 ---
 
@@ -107,11 +107,11 @@ My Public Address to Receive **USDT**:
 
 ### 📫 Connect with Us
 
-![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Rebirth_Core)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/people/Rebirth-Core/61573497102060/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/rebirth-core/)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@rebirth_core)
-![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/RebirthCoreCommunity)
+![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Busy_Brain_PM)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/Busy_Brain_PM/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/Busy_Brain_PM/)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@Busy_Brain_PM)
+![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Busy_Brain_PM_Community)
 
 ---
 
